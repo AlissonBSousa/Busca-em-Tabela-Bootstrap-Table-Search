@@ -27,6 +27,7 @@ echo $col["nome"];
 echo "<hr>"; 
 }
 
+
 $i = 0;
 while ( $i < count($cols)) {
     echo "<hr>"; 
